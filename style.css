@@ -1,0 +1,42 @@
+.masthead-heading {
+    background-color: orangered;
+    text-align: center;
+    font-size: 50px;
+    color: whitesmoke;
+}
+
+p {
+    font-size: 30px;
+    color: whitesmoke;
+    text-align: center;
+    padding: 10px;
+}
+
+h2 {
+    text-align: center;
+    color: whitesmoke;
+    font-size: 35px;
+}
+
+.masthead {
+    padding: 6em 0;
+    background-image: url('code.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+img {
+    align: center;
+    display: block;
+    margin: 0 auto;
+}
+
+ul:link {
+    color: greenyellow;
+}
+
+ul {
+    text-align: center;
+    padding: 5px;
+    font-size: 20px;
+}
